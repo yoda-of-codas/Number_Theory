@@ -1,3 +1,4 @@
+#!usr/bin/python
 def organize(prime):
    ans,j ='',0
    while j < len(prime):
