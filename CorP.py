@@ -1,7 +1,9 @@
+#!/usr/bin/python
 #Code By Bakel Begededum
 """The plight of this code is to evaluate permutation and combination of numbers """
 
 #Function to evaluate factorials as this is the basis
+
 def f(x):
    
     f = 1
