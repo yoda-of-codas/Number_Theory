@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from math import gcd
 import functools
 
